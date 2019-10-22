@@ -1,0 +1,23 @@
+{
+  "name": "e-store-example",
+  "version": "1.0.0",
+  "description": "Mock online store run using MySQL with a command-line interface",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-adom/E-Store-Example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-adom/E-Store-Example/issues"
+  },
+  "homepage": "https://github.com/j-adom/E-Store-Example#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  }
+}
