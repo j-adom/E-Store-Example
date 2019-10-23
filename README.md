@@ -9,3 +9,4 @@ Mock online store run using MySQL with a command-line interface
 
 # Video Demonstration 
 
+https://github.com/j-adom/E-Store-Example/blob/master/bamazon%20estore.mp4
